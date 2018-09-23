@@ -12,7 +12,7 @@
     "ngx",
     "angular"
   ],
-  "author": "",
+  "author": "Sachin Kamble",
   "license": "MIT",
   "schematics": "./src/collection.json",
   "dependencies": {
