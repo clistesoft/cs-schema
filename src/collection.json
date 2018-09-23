@@ -4,6 +4,12 @@
     "cs-schema": {
       "description": "A blank schematic.",
       "factory": "./cs-schema/index#csSchema"
+    },
+    "page": {
+      "aliases": ["p"],
+      "factory": "./page",
+      "description": "Create an Angular page.",
+      "schema": "./page/schema.json"
     }
   }
 }
