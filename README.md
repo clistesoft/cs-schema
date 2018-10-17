@@ -12,7 +12,8 @@ npm install cs-schema
 Generate a page
 
 ```sh
-ng generate cs-sechma:page pageName
+ng generate cs-schema:page pageName
+
 ```
 ## Output
 
